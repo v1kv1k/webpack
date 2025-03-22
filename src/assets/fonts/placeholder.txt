@@ -1,0 +1,5 @@
+Цей файл є заглушкою для шрифтів.
+Для реального проекту потрібно завантажити реальні шрифти:
+- opensans-regular.woff2
+- opensans-bold.woff2
+- montserrat-medium.woff2 
